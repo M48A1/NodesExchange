@@ -1,3 +1,6 @@
+# [在线制作](https://m48a1.github.io/NodesExchange/Convetert4clash.html)
+
+
 # NodesExchange · 节点转 Clash
 
 一个零依赖、纯前端的节点分享链接转换工具。将多条节点链接转换为 Clash / Mihomo 配置中的 `proxies:` 节点段，也可以生成包含手动选择代理组的完整 YAML 配置。
